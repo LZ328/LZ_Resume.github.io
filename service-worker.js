@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/LZ_Resume.github.io/css/page.css","9432f7d3a893c9999b78cee2c4e0522f"],["/LZ_Resume.github.io/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/LZ_Resume.github.io/css/vue-pdf.css","88432069c3354c9982c0c524008a2405"],["/LZ_Resume.github.io/index.html","bc68384b462c9a1431d447e129787740"],["/LZ_Resume.github.io/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/LZ_Resume.github.io/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/LZ_Resume.github.io/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/LZ_Resume.github.io/zh-cn/index.html","1f2970a6faa4c30b628b1de095681180"]];
+var precacheConfig = [["/LZ_Resume.github.io/css/page.css","b63fc1ff09d23dfeec58d035645754f9"],["/LZ_Resume.github.io/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/LZ_Resume.github.io/css/vue-pdf.css","1bc18a33c01ffd0ef8bfb7abae7611d9"],["/LZ_Resume.github.io/index.html","89825689d6a526edcc9f827bc80c42f1"],["/LZ_Resume.github.io/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/LZ_Resume.github.io/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/LZ_Resume.github.io/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/LZ_Resume.github.io/zh-cn/index.html","1f2970a6faa4c30b628b1de095681180"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
